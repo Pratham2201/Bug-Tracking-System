@@ -49,7 +49,7 @@
                 <h2>Create an Account</h2>
                 <div class="radio">
                   <input type="radio" class="radio-btn" id="type" name="Type" value="ADM">
-                  <label for="type">Admin</label><br>
+                  <label for="type">Admin1</label><br>
                   <input type="radio" class="radio-btn" id="type" name="Type" value="QA">
                   <label for="type">QA</label><br>
                   <input type="radio" class="radio-btn" id="type" name="Type" value="DEV">
